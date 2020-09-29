@@ -25,6 +25,8 @@
       url: "https://github.com/open-telemetry/opentelemetry-cpp/blob/master/README.md"
     - name: "Erlang/Elixir"
       url: "https://hexdocs.pm/opentelemetry_api/readme.html"
+    - name: "Haskell"
+      url: "https://github.com/ethercrow/opentelemetry-haskell#opentelemetry-haskell"
     - name: "Collector"
       url: "/docs/collector/about"
     - name: "Specification"
